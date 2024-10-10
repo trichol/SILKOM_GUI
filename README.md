@@ -1,4 +1,4 @@
-# SILKOM_GUI
+# SILKOM_GUI (Auteur : Thierry RICHOL)
 Projet MFC d'affichage d'une liste aléatoire de ville dans une fenêtre de dialogue
 
 -Ce projet a été developpé avec Visual Studio Comunity 2022 (17.11.5).
