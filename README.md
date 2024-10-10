@@ -1,13 +1,12 @@
 # SILKOM_GUI
 Projet MFC d'affichage d'une liste aléatoire de ville dans une fenêtre de dialogue
 
-Ce projet a été developpé avec Visual Studio Comunity 2022 (17.11.5).
-
-La solution du projet se trouve dans le repertoire : PROJETS/SilkhomGUI
-L'executable est généré à l'emplacement : PROJETS/LIVRAISON/MyMFC.exe (Fenetre de dialogue)
-La DLL est généré à l'emplacement : PROJETS/LIVRAISON/MyDLL.dll (dll de retour aléatoire de liste de ville).
-
-La compilation de l'éxecutable est lié a celle de la dll.
+-Ce projet a été developpé avec Visual Studio Comunity 2022 (17.11.5).
+-La solution du projet se trouve dans le repertoire : PROJETS/SilkhomGUI
+-L'executable est généré à l'emplacement : PROJETS/LIVRAISON/MyMFC.exe (Fenetre de dialogue)
+-La DLL est généré à l'emplacement : PROJETS/LIVRAISON/MyDLL.dll (dll de retour aléatoire de liste de ville).
+-La documentation du projet est sous format html et se trouve  à l'emplacement : DOC.zip
+-La compilation de l'éxecutable est lié a celle de la dll.
 
 Voici le cahier des charges auquel repond cette application :
 
