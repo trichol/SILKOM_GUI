@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|MyDLL.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|MyDLL.vcxproj|solutionrelative:MyDLL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|MyDLL.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|MyDLL.vcxproj|solutionrelative:MyDLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|MyDLL.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|MyDLL.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|MyDLL.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.def||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|MyDLL.vcxproj|solutionrelative:MyDLL.def||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.h",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T21:14:27.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDLL.def",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.def",
+              "RelativeDocumentMoniker": "MyDLL.def",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.def",
+              "RelativeToolTip": "MyDLL.def",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-10-09T21:12:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDLL.cpp",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.cpp",
+              "RelativeDocumentMoniker": "MyDLL.cpp",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.cpp",
+              "RelativeToolTip": "MyDLL.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T21:11:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDLL.h",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.h",
+              "RelativeDocumentMoniker": "MyDLL.h",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.h",
+              "RelativeToolTip": "MyDLL.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T21:10:04.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

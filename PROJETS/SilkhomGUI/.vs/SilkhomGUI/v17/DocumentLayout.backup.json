@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\SilkhomGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C6EACD-14A6-45E0-967F-EC8DFDF40F87}|..\\MyMFC\\MyMFC.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFCDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C6EACD-14A6-45E0-967F-EC8DFDF40F87}|..\\MyMFC\\MyMFC.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C6EACD-14A6-45E0-967F-EC8DFDF40F87}|..\\MyMFC\\MyMFC.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFCDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C6EACD-14A6-45E0-967F-EC8DFDF40F87}|..\\MyMFC\\MyMFC.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|..\\MyDLL\\MyDLL.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E23205-7E0E-4F8C-91FE-91195FB5388D}|..\\MyDLL\\MyDLL.vcxproj|E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyMFCDlg.h",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFCDlg.h",
+              "RelativeDocumentMoniker": "..\\MyMFC\\MyMFCDlg.h",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFCDlg.h",
+              "RelativeToolTip": "..\\MyMFC\\MyMFCDlg.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-10T04:40:32.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMFC.h",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFC.h",
+              "RelativeDocumentMoniker": "..\\MyMFC\\MyMFC.h",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFC.h",
+              "RelativeToolTip": "..\\MyMFC\\MyMFC.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-10T04:38:55.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyMFCDlg.cpp",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFCDlg.cpp",
+              "RelativeDocumentMoniker": "..\\MyMFC\\MyMFCDlg.cpp",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFCDlg.cpp",
+              "RelativeToolTip": "..\\MyMFC\\MyMFCDlg.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAL0AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T04:37:35.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyMFC.cpp",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFC.cpp",
+              "RelativeDocumentMoniker": "..\\MyMFC\\MyMFC.cpp",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyMFC\\MyMFC.cpp",
+              "RelativeToolTip": "..\\MyMFC\\MyMFC.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T04:37:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDLL.h",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.h",
+              "RelativeDocumentMoniker": "..\\MyDLL\\MyDLL.h",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.h",
+              "RelativeToolTip": "..\\MyDLL\\MyDLL.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-10T04:26:18.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDLL.cpp",
+              "DocumentMoniker": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.cpp",
+              "RelativeDocumentMoniker": "..\\MyDLL\\MyDLL.cpp",
+              "ToolTip": "E:\\WORK\\SOCIETE FREEPARTNERS\\CLIENTS\\TEMP\\SILKOM\\PROJETS\\MyDLL\\MyDLL.cpp",
+              "RelativeToolTip": "..\\MyDLL\\MyDLL.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T02:07:48.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
